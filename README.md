@@ -1,4 +1,3 @@
-<html
 <head>  
     Khaana Management Team
 </head>
@@ -8,4 +7,4 @@
   <b> Tyler Kite </b>
 </body>
 
-</html>
+
